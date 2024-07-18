@@ -156,7 +156,7 @@ Last Updated on 14/07/2024 18:48:49 UTC
 
 </details>
 
-## <a href="#"><img src="https://github.com/luisbernardinello/luisbernardinello/blob/main/img/gif_solaire.gif" width="48px" alt="Solaire of Astora Gif" title="“All we have to decide is what to do with the time that is given us.”" /></a>&nbsp; Highlights:
+## <a href="#"><img src="https://github.com/luisbernardinello/luisbernardinello/blob/main/img/gif_solaire.gif" width="42px" alt="Solaire of Astora Gif" title="“All we have to decide is what to do with the time that is given us.”" /></a>&nbsp; Highlights:
 
 <details>
   <summary><b><a href="#"><img src="https://github.com/luisbernardinello/luisbernardinello/blob/main/img/icon_academics.png"width="29px"/></a> Academics </b></summary>
@@ -329,6 +329,16 @@ Last Updated on 14/07/2024 18:48:49 UTC
         <td>
           <a href="https://github.com/luisbernardinello/fresh-deno-auth">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=luisbernardinello&repo=fresh-deno-auth&theme=shades-of-purple"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://github.com/luisbernardinello/django-react-tailwind-blog" style="color: #5D4092;">
+          <b>Blog app usando Django + React</b></a>
+        </td>
+        <td>
+          <a href="https://github.com/luisbernardinello/django-react-tailwind-blog">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=luisbernardinello&repo=django-react-tailwind-blog&theme=shades-of-purple"/>
         </td>
       </tr>
     </tbody>
