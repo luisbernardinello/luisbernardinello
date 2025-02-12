@@ -82,7 +82,9 @@
 
 ### Some things I've done:
 
-<a href="#" alt="Goblin Wizard Gif" title="“A wizard is never late, nor is he early, he arrives precisely when he means to.”"><img src="https://github.com/luisbernardinello/luisbernardinello/blob/main/img/gif_goblin.gif" align="right" width="108px"></a>
+<a href="#" alt="Pickle Rick Gif" title="“A wizard is never late, nor is he early, he arrives precisely when he means to.”"><img src="https://github.com/luisbernardinello/luisbernardinello/blob/main/img/gif_pickle_rick.gif" align="right" width="148px"></a>
+
+<!-- <a href="#" alt="Goblin Wizard Gif" title="“A wizard is never late, nor is he early, he arrives precisely when he means to.”"><img src="https://github.com/luisbernardinello/luisbernardinello/blob/main/img/gif_goblin.gif" align="right" width="108px"></a> -->
 
 <details>
   <summary><b><a href="#"><img src="https://github.com/luisbernardinello/luisbernardinello/blob/main/img/icon_academic.png"width="26px"/></a> Academic </b></summary>
