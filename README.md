@@ -1,4 +1,4 @@
-<h2 align="center">Hey there <a href="#"><img src="https://github.com/luisbernardinello/luisbernardinello/blob/main/img/gif_sanji.gif" width="52px" alt="Sanji Gif" title="“All we have to decide is what to do with the time that is given to us.”" /></a>, I'm Luis Bernardinello</h2>
+<h2 align="center">Hey there <a href="#"><img src="https://github.com/luisbernardinello/luisbernardinello/blob/main/img/gif_sanji.gif" width="56px" alt="Sanji Gif" title="“All we have to decide is what to do with the time that is given to us.”" /></a>, I'm Luis Bernardinello</h2>
 <p align="center">
   <a href="https://github.com/luisbernardinello/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=A+software+engineer;in+a+software-powered+world." alt="Typing SVG" /></a>
 </p>
@@ -82,7 +82,7 @@
 
 ### Some things I've done:
 
-<a href="#" alt="Pickle Rick Gif" title="“A wizard is never late, nor is he early, he arrives precisely when he means to.”"><img src="https://github.com/luisbernardinello/luisbernardinello/blob/main/img/gif_pickle_rick.gif" align="right" width="108px"></a>
+<a href="#" alt="Pickle Rick Gif" title="“A wizard is never late, nor is he early, he arrives precisely when he means to.”"><img src="https://github.com/luisbernardinello/luisbernardinello/blob/main/img/gif_pickle_rick.gif" align="right" width="102px"></a>
 
 <!-- <a href="#" alt="Goblin Wizard Gif" title="“A wizard is never late, nor is he early, he arrives precisely when he means to.”"><img src="https://github.com/luisbernardinello/luisbernardinello/blob/main/img/gif_goblin.gif" align="right" width="108px"></a> -->
 
