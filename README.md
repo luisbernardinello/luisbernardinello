@@ -57,7 +57,7 @@
 | Languages | <table><tr><td><a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="Rust" title="Rust" height="40" style="margin-bottom: 5px;" /></a></td><td><a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++" height="40" style="margin-bottom: 5px;" /></a></td><td><a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java" height="40" style="margin-bottom: 5px;" /></a></td><td><a href="https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin" title="Kotlin" height="40" style="margin-bottom: 5px;" /></a></td><td><a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" alt="JavaScript" title="JavaScript" height="40" style="margin-bottom: 5px;" /></a></td><td><a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" alt="TypeScript" title="TypeScript" height="40" style="margin-bottom: 5px;" /></a></td><td><a href="https://golang.org/"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Golang" title="Golang" height="40" style="margin-bottom: 5px;" /></a></td><td><a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" title="Python" height="40" style="margin-bottom: 5px;" /></a></td></tr></table>               |
 | AI/ML     | <table><tr><td><a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch&theme=light" alt="PyTorch" title="PyTorch" height="40" style="margin-bottom: 5px;" /></a></td><td><a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow&theme=light" alt="TensorFlow" title="TensorFlow" height="40" style="margin-bottom: 5px;" /></a></td><td><a href="https://www.langchain.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=langchain&theme=light" alt="LangChain" title="LangChain" height="40" style="margin-bottom: 5px;" /></a></td><td><a href="https://scikit-learn.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn&theme=light" alt="scikit-learn" title="scikit-learn" height="40" style="margin-bottom: 5px;" /></a></td><td><a href="https://numpy.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=light" alt="NumPy" title="NumPy" height="40" style="margin-bottom: 5px;" /></a></td><td><a href="https://pandas.pydata.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=light" alt="Pandas" title="Pandas" height="40" style="margin-bottom: 5px;" /></a></td></tr></table>                                                                                                                                                                                                                                                                   |
 | Backend   | <table><tr><td><a href="https://spring.io"><img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring" title="Spring" height="40" style="margin-bottom: 5px;" /></a></td><td><a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="NodeJS" title="NodeJS" height="40" style="margin-bottom: 5px;" /></a></td><td><a href="https://nestjs.com"><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" alt="NestJS" title="NestJS" height="40" style="margin-bottom: 5px;" /></a></td><td><a href="https://kafka.apache.org"><img src="https://skillicons.dev/icons?i=kafka&theme=dark" alt="Kafka" title="Kafka" height="40" style="margin-bottom: 5px;" /></a></td><td><a href="https://www.rabbitmq.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=rabbitmq&theme=dark" alt="RabbitMQ" title="RabbitMQ" height="40" style="margin-bottom: 5px;" /></a></td><td><a href="https://www.prisma.io"><img src="https://skillicons.dev/icons?i=prisma&theme=dark" alt="Prisma" title="Prisma" height="40" style="margin-bottom: 5px;" /></a></td><td><a href="https://hibernate.org"><img src="https://skillicons.dev/icons?i=hibernate&theme=dark" alt="Hibernate" title="Hibernate" height="40" style="margin-bottom: 5px;" /></a></td><td><a href="https://graphql.org/"><img src="https://skillicons.dev/icons?i=graphql&theme=dark" alt="GraphQL" title="GraphQL" height="40" style="margin-bottom: 5px;" /></a></td></tr></table> |
-| Frontend  | <table><tr><td><a href="https://reactjs.org"><img src="https://skillicons.dev/icons?i=react&theme=light" alt="React" title="React" height="40" style="margin-bottom: 5px;" /></a></td><td><a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind&theme=light" alt="TailwindCSS" title="TailwindCSS" height="40" style="margin-bottom: 5px;" /></a></td></tr></table>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Frontend  | <table><tr><td><a href="https://reactjs.org"><img src="https://skillicons.dev/icons?i=react&theme=light" alt="React" title="React" height="40" style="margin-bottom: 5px;" /></a></td><td><a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs&theme=light" alt="Next.js" title="Next.js" height="40" style="margin-bottom: 5px;" /></a></td><td><a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind&theme=light" alt="TailwindCSS" title="TailwindCSS" height="40" style="margin-bottom: 5px;" /></a></td></tr></table>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | Game Dev  | <table><tr><td><a href="https://unity.com"><img src="https://skillicons.dev/icons?i=unity&theme=dark" alt="Unity" title="Unity" height="40" style="margin-bottom: 5px;" /></a></td><td><a href="https://bevyengine.org"><img src="https://skillicons.dev/icons?i=bevy&theme=dark" alt="Bevy" title="Bevy" height="40" style="margin-bottom: 5px;" /></a></td></tr></table>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 </p>
@@ -181,42 +181,22 @@
     <tbody>
       <tr>
         <td>
-          <a href="https://github.com/luisbernardinello/microservices-spring-example" style="color: #5D4092;">
-          <b>Microserviços com Spring</b></a>
-        </td>
-        <td>
-          <a href="https://github.com/luisbernardinello/microservices-spring-example">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=luisbernardinello&repo=microservices-spring-example&theme=shades-of-purple"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="https://github.com/luisbernardinello/microservices-saga-pattern-spring-example" style="color: #5D4092;">
+          <a href="https://github.com/luisbernardinello/api-spring-microservices-saga-pattern" style="color: #5D4092;">
           <b>Microserviços padrão Saga com Spring</b></a>
         </td>
         <td>
-          <a href="https://github.com/luisbernardinello/microservices-saga-pattern-spring-example">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=luisbernardinello&repo=microservices-saga-pattern-spring-example&theme=shades-of-purple"/>
+          <a href="https://github.com/luisbernardinello/api-spring-microservices-saga-pattern">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=luisbernardinello&repo=api-spring-microservices-saga-pattern&theme=shades-of-purple"/>
         </td>
       </tr>
       <tr>
         <td>
-          <a href="https://github.com/luisbernardinello/clean-architecture-nestjs-prisma-example" style="color: #5D4092;">
+          <a href="https://github.com/luisbernardinello/api-nestjs-clean" style="color: #5D4092;">
           <b>Clean Architecture com NestJS + Prisma</b></a>
         </td>
         <td>
-          <a href="https://github.com/luisbernardinello/clean-architecture-nestjs-prisma-example">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=luisbernardinello&repo=clean-architecture-nestjs-prisma-example&theme=shades-of-purple"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="https://github.com/luisbernardinello/nestjs-prisma-example" style="color: #5D4092;">
-          <b>NestJS + Prisma</b></a>
-        </td>
-        <td>
-          <a href="https://github.com/luisbernardinello/nestjs-prisma-example">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=luisbernardinello&repo=nestjs-prisma-example&theme=shades-of-purple"/>
+          <a href="https://github.com/luisbernardinello/api-nestjs-clean">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=luisbernardinello&repo=api-nestjs-clean&theme=shades-of-purple"/>
         </td>
       </tr>
       <tr>
