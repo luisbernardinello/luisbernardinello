@@ -153,15 +153,6 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=luisbernardinello&repo=cg&theme=shades-of-purple"/>
         </td>
       </tr>       
-      <tr>
-    <td>
-        <a href="https://github.com/luisbernardinello/artificial-intelligence-continual-learning" style="color: #5D4092;">
-        <b>TCC</b></a>
-    </td>
-        <td>
-        <a href="https://github.com/luisbernardinello/artificial-intelligence-continual-learning">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=luisbernardinello&repo=artificial-intelligence-continual-learning&theme=shades-of-purple"/></td>
-      </tr>
     </tbody>
   </table>
 
@@ -237,16 +228,6 @@
         <td>
           <a href="https://github.com/luisbernardinello/fresh-deno-auth">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=luisbernardinello&repo=fresh-deno-auth&theme=shades-of-purple"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="https://github.com/luisbernardinello/django-react-tailwind-blog" style="color: #5D4092;">
-          <b>Blog app usando React + Django</b></a>
-        </td>
-        <td>
-          <a href="https://github.com/luisbernardinello/django-react-tailwind-blog">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=luisbernardinello&repo=django-react-tailwind-blog&theme=shades-of-purple"/>
         </td>
       </tr>
     </tbody>
