@@ -133,26 +133,36 @@
 <details>
   <summary><a href="#"><img src="https://github.com/luisbernardinello/luisbernardinello/blob/main/img/icon_projects.png"width="38px"/></a> <h3> Some things I've done: </h3></summary>
     <br/>
-<a href="https://github.com/luisbernardinello/operating-systems-course">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=luisbernardinello&repo=operating-systems-course&theme=shades-of-purple"/>
-</a>
-
-<a href="https://github.com/luisbernardinello/numerical-methods-calculator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=luisbernardinello&repo=numerical-methods-calculator&theme=shades-of-purple"/>
-</a>
-
-<a href="https://github.com/luisbernardinello/spring-microservices-saga-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=luisbernardinello&repo=spring-microservices-saga-api&theme=shades-of-purple"/>
-</a>
-
-<a href="https://github.com/luisbernardinello/nestjs-clean-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=luisbernardinello&repo=nestjs-clean-api&theme=shades-of-purple"/>
-</a>
-
-<a href="https://github.com/luisbernardinello/golang-grpc-microservices-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=luisbernardinello&repo=golang-grpc-microservices-api&theme=shades-of-purple"/>
-</a>
-
+<table>
+    <thead align="center">
+      <tr border: none;>
+    <td><b><a href="#"></a>Project (pt)</b></td>
+        <td><b><a href="#"></a>Description</b></td>
+      </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>
+        <a href="https://github.com/luisbernardinello/numerical-methods-calculator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=luisbernardinello&repo=numerical-methods-calculator&theme=shades-of-purple"/>
+        </td>
+        <td>
+          <a href="https://github.com/luisbernardinello/spring-microservices-saga-api">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=luisbernardinello&repo=spring-microservices-saga-api&theme=shades-of-purple"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://github.com/luisbernardinello/nestjs-clean-api">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=luisbernardinello&repo=nestjs-clean-api&theme=shades-of-purple"/>
+        </td>
+        <td>
+          <a href="https://github.com/luisbernardinello/golang-grpc-microservices-api">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=luisbernardinello&repo=golang-grpc-microservices-api&theme=shades-of-purple"/>
+        </td>
+      </tr>      
+    </tbody>
+  </table>
   <br />
 </details>
 
