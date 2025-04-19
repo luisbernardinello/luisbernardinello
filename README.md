@@ -34,8 +34,8 @@
   <a href="https://leetcode.com/u/luisbernardinello/" alt="LeetCode" title="LeetCode: @luisbernardinello">
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fluisbernardinello&logo=leetcode&logoColor=yellow" height="20vh" /></a>
   </div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisbernardinello&rank_icon=github&show_icons=true&theme=shades-of-purple" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisbernardinello&hide_progress=true&theme=shades-of-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisbernardinello&rank_icon=github&show_icons=true&bear" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisbernardinello&hide_progress=true&theme=bear"/>
   
  
 <!--START_SECTION:waka-readme-stats-->
@@ -138,21 +138,21 @@
     <tr>
         <td>
         <a href="https://github.com/luisbernardinello/numerical-methods-calculator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=luisbernardinello&repo=numerical-methods-calculator&theme=shades-of-purple"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=luisbernardinello&repo=numerical-methods-calculator&theme=dracula"/>
         </td>
         <td>
           <a href="https://github.com/luisbernardinello/spring-microservices-saga-api">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=luisbernardinello&repo=spring-microservices-saga-api&theme=shades-of-purple"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=luisbernardinello&repo=spring-microservices-saga-api&theme=gruvbox"/>
         </td>
       </tr>
       <tr>
         <td>
           <a href="https://github.com/luisbernardinello/nestjs-clean-api">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=luisbernardinello&repo=nestjs-clean-api&theme=shades-of-purple"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=luisbernardinello&repo=nestjs-clean-api&theme=tokyonight"/>
         </td>
         <td>
           <a href="https://github.com/luisbernardinello/golang-grpc-microservices-api">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=luisbernardinello&repo=golang-grpc-microservices-api&theme=shades-of-purple"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=luisbernardinello&repo=golang-grpc-microservices-api&theme=nightowl"/>
         </td>
       </tr>      
     </tbody>
