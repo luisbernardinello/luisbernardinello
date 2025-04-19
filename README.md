@@ -152,7 +152,7 @@
         </td>
         <td>
           <a href="https://github.com/luisbernardinello/golang-grpc-microservices-api">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=luisbernardinello&repo=golang-grpc-microservices-api&border_radius=20&theme=gotham"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=luisbernardinello&repo=golang-grpc-microservices-api&border_radius=20&theme=panda"/>
         </td>
       </tr>      
     </tbody>
