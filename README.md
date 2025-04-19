@@ -134,8 +134,6 @@
   <summary><a href="#"><img src="https://github.com/luisbernardinello/luisbernardinello/blob/main/img/icon_projects.png"width="38px"/></a> <h3> Some things I've done: </h3></summary>
     <br/>
 <table>
-    <thead align="center">
-    </thead>
     <tbody>
     <tr>
         <td>
