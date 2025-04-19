@@ -135,10 +135,6 @@
     <br/>
 <table>
     <thead align="center">
-      <tr border: none;>
-    <td><b><a href="#"></a>Project (pt)</b></td>
-        <td><b><a href="#"></a>Description</b></td>
-      </tr>
     </thead>
     <tbody>
     <tr>
