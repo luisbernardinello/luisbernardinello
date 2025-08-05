@@ -60,10 +60,9 @@
 
 #
 
-<!--
 </details>
 
-<details>
+<details>	
   <summary>:zap:<b> Utility belt</b></summary>
   <br>
 <table>
@@ -83,8 +82,8 @@
         <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" title="Python" height="40" /></a>
         <a href="https://www.java.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" alt="Java" title="Java" height="40" /></a>
         <!-- <a href="https://golang.org/"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Golang" title="Golang" height="40" /></a> -->
-
         <!-- <a href="https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin" title="Kotlin" height="40" /></a> -->
+        <a href="https://elixir-lang.org/"><img src="https://skillicons.dev/icons?i=elixir&theme=dark" alt="Elixir" title="Elixir" height="40" /></a>
       </td>
     </tr>
     <tr>
@@ -104,7 +103,7 @@
     <tr>
       <td align="center"><strong>Backend</strong></td>
       <td align="left">
-        <a href="https://dotnet.microsoft.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet&theme=dark" alt=".NET" title=".NET" height="40" /></a>
+        <!-- <a href="https://dotnet.microsoft.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet&theme=dark" alt=".NET" title=".NET" height="40" /></a> -->
         <!-- <a href="https://golang.org/"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Golang" title="Golang" height="40" /></a> -->
         <!-- <a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" title="FastAPI" height="40" /></a> -->
         <a href="https://kafka.apache.org"><img src="https://skillicons.dev/icons?i=kafka&theme=dark" alt="Kafka" title="Kafka" height="40" /></a>
@@ -128,13 +127,12 @@
         <a href="https://bevyengine.org"><img src="https://skillicons.dev/icons?i=bevy&theme=dark" alt="Bevy" title="Bevy" height="40" /></a>
       </td>
     </tr>
-
   </tbody>
 </table>
 
 #
 
-</details> -->
+</details>
 
 <!-- <a href="#" alt="Wizard Gif" title="“A wizard is never late, nor is he early, he arrives precisely when he means to.”"><img src="https://github.com/luisbernardinello/luisbernardinello/blob/main/img/gif_wizard.gif" align="right" width="42px"></a> -->
 
