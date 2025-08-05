@@ -60,9 +60,10 @@
 
 #
 
+<!--
 </details>
 
-<details>	
+<details>
   <summary>:zap:<b> Utility belt</b></summary>
   <br>
 <table>
@@ -74,7 +75,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center"><strong>Languages</strong></td>
+      <td align="center"><strong>Main Languages</strong></td>
       <td align="left">
         <a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="Rust" title="Rust" height="40" /></a>
         <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++" height="40" /></a>
@@ -82,6 +83,7 @@
         <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" title="Python" height="40" /></a>
         <a href="https://www.java.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" alt="Java" title="Java" height="40" /></a>
         <!-- <a href="https://golang.org/"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Golang" title="Golang" height="40" /></a> -->
+
         <!-- <a href="https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin" title="Kotlin" height="40" /></a> -->
       </td>
     </tr>
@@ -91,6 +93,7 @@
         <a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch&theme=light" alt="PyTorch" title="PyTorch" height="40" /></a>
         <a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow&theme=light" alt="TensorFlow" title="TensorFlow" height="40" /></a>
         <a href="https://www.langchain.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=langchain&theme=light" alt="LangChain" title="LangChain" height="40" /></a>
+        <a href="https://burn.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=burn&theme=light" alt="Burn" title="Burn" height="40" /></a>
         <a href="https://keras.io"><img src="https://skills-icons.vercel.app/api/icons?i=keras" alt="Keras" title="Keras" height="40" /></a>
         <a href="https://numpy.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=light" alt="NumPy" title="NumPy" height="40" /></a>
         <!-- <a href="https://pandas.pydata.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=light" alt="Pandas" title="Pandas" height="40" /></a> -->
@@ -101,7 +104,7 @@
     <tr>
       <td align="center"><strong>Backend</strong></td>
       <td align="left">
-        <a href="https://spring.io"><img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring" title="Spring" height="40" /></a>
+        <a href="https://dotnet.microsoft.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet&theme=dark" alt=".NET" title=".NET" height="40" /></a>
         <!-- <a href="https://golang.org/"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Golang" title="Golang" height="40" /></a> -->
         <!-- <a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" title="FastAPI" height="40" /></a> -->
         <a href="https://kafka.apache.org"><img src="https://skillicons.dev/icons?i=kafka&theme=dark" alt="Kafka" title="Kafka" height="40" /></a>
@@ -125,12 +128,13 @@
         <a href="https://bevyengine.org"><img src="https://skillicons.dev/icons?i=bevy&theme=dark" alt="Bevy" title="Bevy" height="40" /></a>
       </td>
     </tr>
+
   </tbody>
 </table>
 
 #
 
-</details>
+</details> -->
 
 <!-- <a href="#" alt="Wizard Gif" title="“A wizard is never late, nor is he early, he arrives precisely when he means to.”"><img src="https://github.com/luisbernardinello/luisbernardinello/blob/main/img/gif_wizard.gif" align="right" width="42px"></a> -->
 
