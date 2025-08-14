@@ -78,10 +78,10 @@
       <td align="left">
         <a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="Rust" title="Rust" height="40" /></a>
         <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++" height="40" /></a>
-        <a href="https://dotnet.microsoft.com/languages/csharp"><img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C#" title="C#" height="40" /></a>
+        <!-- <a href="https://dotnet.microsoft.com/languages/csharp"><img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C#" title="C#" height="40" /></a> -->
         <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" title="Python" height="40" /></a>
         <a href="https://www.java.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" alt="Java" title="Java" height="40" /></a>
-        <!-- <a href="https://golang.org/"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Golang" title="Golang" height="40" /></a> -->
+        <a href="https://golang.org/"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Golang" title="Golang" height="40" /></a>
         <!-- <a href="https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin" title="Kotlin" height="40" /></a> -->
         <a href="https://elixir-lang.org/"><img src="https://skillicons.dev/icons?i=elixir&theme=dark" alt="Elixir" title="Elixir" height="40" /></a>
       </td>
