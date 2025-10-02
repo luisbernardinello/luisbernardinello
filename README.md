@@ -102,8 +102,8 @@
     <tr>
       <td align="center"><strong>Backend</strong></td>
       <td align="left">
-        <a href="https://golang.org/"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Golang" title="Golang" height="40" /></a>
-        <a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" title="FastAPI" height="40" /></a>
+        <!-- <a href="https://golang.org/"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Golang" title="Golang" height="40" /></a> -->
+        <!-- <a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" title="FastAPI" height="40" /></a> -->
         <a href="https://kafka.apache.org"><img src="https://skillicons.dev/icons?i=kafka&theme=dark" alt="Kafka" title="Kafka" height="40" /></a>
         <a href="https://pulsar.apache.org"><img src="https://go-skill-icons.vercel.app/api/icons?i=pulsar&theme=dark" alt="Pulsar" title="Pulsar" height="40" /></a>
         <a href="https://grpc.io"><img src="https://go-skill-icons.vercel.app/api/icons?i=grpc&theme=dark" alt="gRPC" title="gRPC" height="40" /></a>
@@ -113,7 +113,7 @@
         <tr>
       <td align="center"><strong>Mobile</strong></td>
       <td align="left">
-        <a href="https://reactnative.dev/"><img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative&theme=dark" alt="React Native" title="React Native" height="40" /></a>
+        <a href="https://reactnative.dev/"><img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative&theme=light" alt="React Native" title="React Native" height="40" /></a>
       </td>
     </tr>
     <tr>
