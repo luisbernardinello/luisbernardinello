@@ -80,9 +80,7 @@
         <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++" height="40" /></a>
         <a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="Rust" title="Rust" height="40" /></a>
         <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" title="Python" height="40" /></a>
-        <!-- <a href="https://www.java.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" alt="Java" title="Java" height="40" /></a> -->
         <a href="https://golang.org/"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Golang" title="Golang" height="40" /></a>
-        <!-- <a href="https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin" title="Kotlin" height="40" /></a> -->
         <a href="https://www.typescriptlang.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=ts&theme=dark" alt="Typescript" title="Typescript" height="40" /></a>
         <!-- <a href="https://elixir-lang.org/"><img src="https://skillicons.dev/icons?i=elixir&theme=dark" alt="Elixir" title="Elixir" height="40" /></a> -->
       </td>
@@ -96,7 +94,7 @@
         <a href="https://burn.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=burn&theme=light" alt="Burn" title="Burn" height="40" /></a>
         <a href="https://keras.io"><img src="https://skills-icons.vercel.app/api/icons?i=keras" alt="Keras" title="Keras" height="40" /></a>
         <a href="https://numpy.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=light" alt="NumPy" title="NumPy" height="40" /></a>
-        <!-- <a href="https://pandas.pydata.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=light" alt="Pandas" title="Pandas" height="40" /></a> -->
+        <a href="https://pandas.pydata.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=light" alt="Pandas" title="Pandas" height="40" /></a>
         <a href="https://pola.rs"><img src="https://go-skill-icons.vercel.app/api/icons?i=polars&theme=light" alt="Polars" title="Polars" height="40" /></a>
         <a href="https://developer.nvidia.com/cuda-toolkit"><img src="https://go-skill-icons.vercel.app/api/icons?i=cuda&theme=light" alt="CUDA" title="CUDA" height="40" /></a>
       </td>
@@ -104,20 +102,25 @@
     <tr>
       <td align="center"><strong>Backend</strong></td>
       <td align="left">
-        <!-- <a href="https://dotnet.microsoft.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet&theme=dark" alt=".NET" title=".NET" height="40" /></a> -->
-        <!-- <a href="https://golang.org/"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Golang" title="Golang" height="40" /></a> -->
-        <!-- <a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" title="FastAPI" height="40" /></a> -->
+        <a href="https://golang.org/"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Golang" title="Golang" height="40" /></a>
+        <a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" title="FastAPI" height="40" /></a>
         <a href="https://kafka.apache.org"><img src="https://skillicons.dev/icons?i=kafka&theme=dark" alt="Kafka" title="Kafka" height="40" /></a>
         <a href="https://pulsar.apache.org"><img src="https://go-skill-icons.vercel.app/api/icons?i=pulsar&theme=dark" alt="Pulsar" title="Pulsar" height="40" /></a>
         <a href="https://grpc.io"><img src="https://go-skill-icons.vercel.app/api/icons?i=grpc&theme=dark" alt="gRPC" title="gRPC" height="40" /></a>
         <a href="https://graphql.org/"><img src="https://skillicons.dev/icons?i=graphql&theme=dark" alt="GraphQL" title="GraphQL" height="40" /></a>
       </td>
     </tr>
+        <tr>
+      <td align="center"><strong>Mobile</strong></td>
+      <td align="left">
+        <a href="https://reactnative.dev/"><img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative&theme=dark" alt="React Native" title="React Native" height="40" /></a>
+      </td>
+    </tr>
     <tr>
       <td align="center"><strong>Game Dev</strong></td>
       <td align="left">
       <a href="https://www.unrealengine.com/"><img src="https://skillicons.dev/icons?i=unreal&theme=dark" alt="Unreal" title="Unreal" height="40" /></a>
-        <a href="https://unity.com"><img src="https://skillicons.dev/icons?i=unity&theme=dark" alt="Unity" title="Unity" height="40" /></a>
+        <!-- <a href="https://unity.com"><img src="https://skillicons.dev/icons?i=unity&theme=dark" alt="Unity" title="Unity" height="40" /></a> -->
         <a href="https://bevyengine.org"><img src="https://skillicons.dev/icons?i=bevy&theme=dark" alt="Bevy" title="Bevy" height="40" /></a>
       </td>
     </tr>
@@ -128,7 +131,7 @@
 
 </details>
 
-<a href="#" alt="Wizard Gif" title="“A wizard is never late, nor is he early, he arrives precisely when he means to.”"><img src="https://github.com/luisbernardinello/luisbernardinello/blob/main/img/gif_wizard.gif" align="right" width="48px"></a>
+<!-- <a href="#" alt="Wizard Gif" title="“A wizard is never late, nor is he early, he arrives precisely when he means to.”"><img src="https://github.com/luisbernardinello/luisbernardinello/blob/main/img/gif_wizard.gif" align="right" width="42px"></a> -->
 
 <!--
 <details>
