@@ -91,10 +91,10 @@
         <a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch&theme=light" alt="PyTorch" title="PyTorch" height="40" /></a>
         <a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow&theme=light" alt="TensorFlow" title="TensorFlow" height="40" /></a>
         <a href="https://www.langchain.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=langchain&theme=light" alt="LangChain" title="LangChain" height="40" /></a>
+        <a href="https://scikit-learn.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn&theme=light" alt="Scikit-learn" title="Scikit-learn" height="40" /></a>
         <a href="https://burn.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=burn&theme=light" alt="Burn" title="Burn" height="40" /></a>
         <a href="https://keras.io"><img src="https://skills-icons.vercel.app/api/icons?i=keras" alt="Keras" title="Keras" height="40" /></a>
         <a href="https://numpy.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=light" alt="NumPy" title="NumPy" height="40" /></a>
-        <a href="https://pandas.pydata.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=light" alt="Pandas" title="Pandas" height="40" /></a>
         <a href="https://pola.rs"><img src="https://go-skill-icons.vercel.app/api/icons?i=polars&theme=light" alt="Polars" title="Polars" height="40" /></a>
         <a href="https://developer.nvidia.com/cuda-toolkit"><img src="https://go-skill-icons.vercel.app/api/icons?i=cuda&theme=light" alt="CUDA" title="CUDA" height="40" /></a>
       </td>
@@ -113,7 +113,7 @@
         <tr>
       <td align="center"><strong>Mobile</strong></td>
       <td align="left">
-        <a href="https://reactnative.dev/"><img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative&theme=light" alt="React Native" title="React Native" height="40" /></a>
+        <a href="https://reactnative.dev/"><img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=light" alt="React Native" title="React Native" height="40" /></a>
       </td>
     </tr>
     <tr>

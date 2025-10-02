@@ -16,5 +16,5 @@ jobs:
       - uses: actions/checkout@v3
       - uses: Balastrong/chess-stats-action@main
         with:
-          CHESS_USERNAME: luisbernardinello
+          CHESS_USERNAME: filipebernardinello
           GAMES_SIZE: 3
