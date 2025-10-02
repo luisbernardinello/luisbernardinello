@@ -35,6 +35,7 @@
 <!--START_SECTION:waka-readme-stats-->
 
 <!--END_SECTION:waka-readme-stats-->
+
   <div align="left"> 	
   <a href="https://www.codewars.com/users/luisbernardinello" alt="CodeWars" title="CodeWars: @luisbernardinello">
     <img src="https://www.codewars.com/users/luisbernardinello/badges/micro" height="24vh"/></a>
@@ -78,7 +79,6 @@
       <td align="left">
         <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++" height="40" /></a>
         <a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="Rust" title="Rust" height="40" /></a>
-        <!-- <a href="https://dotnet.microsoft.com/languages/csharp"><img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C#" title="C#" height="40" /></a> -->
         <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" title="Python" height="40" /></a>
         <!-- <a href="https://www.java.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" alt="Java" title="Java" height="40" /></a> -->
         <a href="https://golang.org/"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Golang" title="Golang" height="40" /></a>
@@ -128,7 +128,7 @@
 
 </details>
 
-<!-- <a href="#" alt="Wizard Gif" title="“A wizard is never late, nor is he early, he arrives precisely when he means to.”"><img src="https://github.com/luisbernardinello/luisbernardinello/blob/main/img/gif_wizard.gif" align="right" width="42px"></a> -->
+<a href="#" alt="Wizard Gif" title="“A wizard is never late, nor is he early, he arrives precisely when he means to.”"><img src="https://github.com/luisbernardinello/luisbernardinello/blob/main/img/gif_wizard.gif" align="right" width="42px"></a>
 
 <!--
 <details>
