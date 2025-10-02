@@ -128,7 +128,7 @@
 
 </details>
 
-<a href="#" alt="Wizard Gif" title="“A wizard is never late, nor is he early, he arrives precisely when he means to.”"><img src="https://github.com/luisbernardinello/luisbernardinello/blob/main/img/gif_wizard.gif" align="right" width="42px"></a>
+<a href="#" alt="Wizard Gif" title="“A wizard is never late, nor is he early, he arrives precisely when he means to.”"><img src="https://github.com/luisbernardinello/luisbernardinello/blob/main/img/gif_wizard.gif" align="right" width="48px"></a>
 
 <!--
 <details>
