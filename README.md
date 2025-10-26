@@ -78,8 +78,8 @@
       <td align="center"><strong>Main Languages</strong></td>
       <td align="left">
         <a href="https://dev.java/"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java" height="40" /></a>
-        <!-- <a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="Rust" title="Rust" height="40" /></a>
-        <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++" height="40" /></a> -->
+        <a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="Rust" title="Rust" height="40" /></a>
+        <!-- <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++" height="40" /></a> -->
         <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" title="Python" height="40" /></a>
         <a href="https://www.typescriptlang.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=ts&theme=dark" alt="Typescript" title="Typescript" height="40" /></a>
         <!-- <a href="https://elixir-lang.org/"><img src="https://skillicons.dev/icons?i=elixir&theme=dark" alt="Elixir" title="Elixir" height="40" /></a> -->
@@ -103,7 +103,7 @@
       <td align="center"><strong>Backend</strong></td>
       <td align="left">
         <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring" title="Spring" height="40" /></a>
-        <a href="https://quarkus.io/"><img src="https://skillicons.dev/icons?i=quarkus&theme=dark" alt="Quarkus" title="Quarkus" height="40" /></a>
+        <a href="https://quarkus.io/"><img src="https://go-skill-icons.vercel.app/api/icons?i=quarkus&theme=dark" alt="Quarkus" title="Quarkus" height="40" /></a>
         <a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" title="FastAPI" height="40" /></a>
         <a href="https://kafka.apache.org"><img src="https://skillicons.dev/icons?i=kafka&theme=dark" alt="Kafka" title="Kafka" height="40" /></a>
         <a href="https://pulsar.apache.org"><img src="https://go-skill-icons.vercel.app/api/icons?i=pulsar&theme=dark" alt="Pulsar" title="Pulsar" height="40" /></a>
