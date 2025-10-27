@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Luis Bernardinello<a href="#"><img src="https://github.com/luisbernardinello/luisbernardinello/blob/main/img/gif_sanji.gif" width="64px" alt="Sanji Gif" title="“All we have to decide is what to do with the time that is given to us.”" /></a></h2>
 <p align="center">
-  <a href="https://github.com/luisbernardinello/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=A+software+engineer;in+a+software-powered+world." alt="Typing SVG" /></a>
+  <a href="https://github.com/luisbernardinello/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=435&lines=A+Backend+Craftsman;in+a+software-powered+world." alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
